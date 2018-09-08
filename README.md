@@ -7,3 +7,7 @@ Please always update your repository at the beginning of each phase.
 Structure:
 - **doc**: Documentations related to the RIS system 
 - **src**: Sources of the RIS system's implementation
+
+Edit
+
+Modified to trigger travis build
